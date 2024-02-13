@@ -11,7 +11,7 @@ body {
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #F1CDF5;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -43,4 +43,21 @@ body {
 	width: 100%;
 	height: 50px;
 	text-align: center;
+}
+body {
+     font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+     background-color: #E2F2F5;
+     margin: 0;
+     padding: 0;
+     color: #000;
+}
+
+a:link {
+     color: #000000;
+}
+a:visited {
+     color: #000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: underline;
 }
