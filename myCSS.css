@@ -22,7 +22,7 @@ body {
 }
 .nav {
 	background: #BBBBBB;
-	margin: 35px;
+	margin: 0px;
 	padding: 5;
 	float: left;
 	width: 100%;
@@ -31,7 +31,7 @@ body {
 }
 .content {
 	background: #EEEEEE;
-	margin: 0px;
+	margin: 35px;
 	float: left;
 	width: 100%;
 	text-align: left;
